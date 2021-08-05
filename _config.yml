@@ -288,3 +288,4 @@ defaults:
       share: true
       related: true
       mathjax: true
+      classes : wide
