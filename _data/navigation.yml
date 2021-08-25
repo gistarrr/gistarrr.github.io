@@ -6,6 +6,8 @@ main:
         url : /ustage/
       - title : Pstage
         url : /pstage/
+      - title : Sstage
+        url : /sstage/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
